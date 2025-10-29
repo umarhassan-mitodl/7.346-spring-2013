@@ -1,0 +1,54 @@
+{
+  "term": "Spring",
+  "year": "2013",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Virology"
+    ]
+  ],
+  "legacy_uid": "79104e84-5179-28e1-ae1d-a98ccd509432",
+  "instructors": {
+    "content": [
+      "fe377842-b77e-341d-d1a5-0dbd9badee31",
+      "c115acf7-cbf9-d268-f45c-4f20915df402"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0db8c795-ca7e-7301-3d59-f65e5deafa9c",
+    "website": "7-346-virus-host-interactions-in-infectious-diseases-spring-2013"
+  },
+  "course_title": "Virus-host Interactions in Infectious Diseases",
+  "course_description": "Co-evolution and adaptation between viruses and humans are often portrayed as a zero-sum biological arms race. Viruses enter host cells equipped with an array of mechanisms to evade the host defense responses and replicate. The rapid rate of mutation of viruses permits evolution of various methodologies for infection, which in turn drive development of non-specific but highly effective host mechanisms to restrict infection. This class will discuss the varied solutions each side has developed as a means for survival. We will use examples drawn from human disease-causing pathogens that contribute seriously to the global health burden, including HIV, influenza and dengue virus. Primary research papers will be discussed to help students learn to pose scientific questions and design and conduct experiments to answer the questions and critically interpret data.\n\nThis course is one of many {{% resource_link \"0eef0dee-f00a-40b7-8d26-8e97e2558581\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.346",
+  "course_image_thumbnail": {
+    "content": "b1fb0396-03ec-9f2b-0450-7780f6c25b25",
+    "website": "7-346-virus-host-interactions-in-infectious-diseases-spring-2013"
+  },
+  "learning_resource_types": [
+    "Instructor Insights"
+  ],
+  "site_uid": "b2f42492-9b8a-4184-9b61-5244179bfe7f",
+  "site_short_id": "7.346-spring-2013",
+  "site_url_path": "courses/7-346-virus-host-interactions-in-infectious-diseases-spring-2013",
+  "title": "Course Metadata"
+}
